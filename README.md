@@ -4,6 +4,7 @@
 ![image](https://github.com/RomanLyashenko/ClassWorkCPP/assets/159914055/25a18ad3-2276-4ba8-813a-5fda8482330a)
 [15.02.2024](https://github.com/RomanLyashenko/ClassWorkCPP/blob/main/15.02.24/15.02.2024.cpp) - работа с условиями <br>
 [20.02.2024](https://github.com/RomanLyashenko/ClassWorkCPP/blob/main/20.02.2024/LyashenkoProject.cpp) - логические условия switch case
+[22.02.2024](https://github.com/RomanLyashenko/ClassWorkCPP/blob/main/22.02.2024/Lyashenko22.02.2024.cpp) - циклы
 
 
 
