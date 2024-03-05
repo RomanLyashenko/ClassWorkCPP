@@ -5,7 +5,8 @@
 [20.02.2024](https://github.com/RomanLyashenko/ClassWorkCPP/blob/main/20.02.2024/LyashenkoProject.cpp) - логические условия switch case <br>
 [22.02.2024](https://github.com/RomanLyashenko/ClassWorkCPP/blob/main/22.02.2024/ConsoleApplication2.cpp) - циклы <br>
 [27.02.2024](https://github.com/RomanLyashenko/ClassWorkCPP/blob/main/27.02.2024/Console27.02.2024.cpp) - циклы for <br>
-[29.02.2024](https://github.com/RomanLyashenko/ClassWorkCPP/blob/main/29.02.2024/29.02.2024.cpp) - самостоятельная работа
+[29.02.2024](https://github.com/RomanLyashenko/ClassWorkCPP/blob/main/29.02.2024/29.02.2024.cpp) - самостоятельная работа <br>
+[05.03.2024](https://github.com/RomanLyashenko/ClassWorkCPP/blob/main/05.03.2024/05.03.2024.cpp) - массивы
 
 
 
