@@ -7,6 +7,7 @@
 [27.02.2024](https://github.com/RomanLyashenko/ClassWorkCPP/blob/main/27.02.2024/Console27.02.2024.cpp) - циклы for <br>
 [29.02.2024](https://github.com/RomanLyashenko/ClassWorkCPP/blob/main/29.02.2024/29.02.2024.cpp) - самостоятельная работа <br>
 [05.03.2024](https://github.com/RomanLyashenko/ClassWorkCPP/blob/main/05.03.2024/05.03.2024.cpp) - массивы
+[07.03.2024](https://github.com/RomanLyashenko/ClassWorkCPP/blob/main/07.03.2024/07.03.2024.cpp) - одномерные массивы
 
 
 
