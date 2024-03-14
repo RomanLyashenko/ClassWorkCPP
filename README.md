@@ -8,7 +8,8 @@
 [29.02.2024](https://github.com/RomanLyashenko/ClassWorkCPP/blob/main/29.02.2024/29.02.2024.cpp) - самостоятельная работа <br>
 [05.03.2024](https://github.com/RomanLyashenko/ClassWorkCPP/blob/main/05.03.2024/05.03.2024.cpp) - массивы <br>
 [07.03.2024](https://github.com/RomanLyashenko/ClassWorkCPP/blob/main/07.03.2024/07.03.2024.cpp) - одномерные массивы <br>
-[12.03.2024](https://github.com/RomanLyashenko/ClassWorkCPP/blob/main/12.03.2024/12.03.2024.cpp) - двумерные массивы
+[12.03.2024](https://github.com/RomanLyashenko/ClassWorkCPP/blob/main/12.03.2024/12.03.2024.cpp) - двумерные массивы <br>
+[14.03.2024](https://github.com/RomanLyashenko/ClassWorkCPP/blob/main/14.03.2024/14.03.2024.cpp) - двумерные массивы <br>
 
 
 
