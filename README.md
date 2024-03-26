@@ -11,6 +11,7 @@
 [12.03.2024](https://github.com/RomanLyashenko/ClassWorkCPP/blob/main/12.03.2024/12.03.2024.cpp) - двумерные массивы <br>
 [14.03.2024](https://github.com/RomanLyashenko/ClassWorkCPP/blob/main/14.03.2024/14.03.2024.cpp) - двумерные массивы <br>
 [21.03.2024](https://github.com/RomanLyashenko/ClassWorkCPP/blob/main/21.03.2024/21.03.2024.cpp) - функции <br>
+[26.03.2024](https://github.com/RomanLyashenko/ClassWorkCPP/blob/main/26.03.2024/26.03.2024.cpp) - массивы в функциях + повторение двумерных массивов<br>
 
 
 
