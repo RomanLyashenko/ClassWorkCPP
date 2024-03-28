@@ -12,7 +12,7 @@
 [14.03.2024](https://github.com/RomanLyashenko/ClassWorkCPP/blob/main/14.03.2024/14.03.2024.cpp) - двумерные массивы <br>
 [21.03.2024](https://github.com/RomanLyashenko/ClassWorkCPP/blob/main/21.03.2024/21.03.2024.cpp) - функции <br>
 [26.03.2024](https://github.com/RomanLyashenko/ClassWorkCPP/blob/main/26.03.2024/26.03.2024.cpp) - массивы в функциях + повторение двумерных массивов<br>
-
+[23.03.2024](https://github.com/RomanLyashenko/ClassWorkCPP/blob/main/28.03.2024/28.03.2024.cpp) - указатели, динамические массивы
 
 
 
