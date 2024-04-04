@@ -11,9 +11,10 @@
 [12.03.2024](https://github.com/RomanLyashenko/ClassWorkCPP/blob/main/12.03.2024/12.03.2024.cpp) - двумерные массивы <br>
 [14.03.2024](https://github.com/RomanLyashenko/ClassWorkCPP/blob/main/14.03.2024/14.03.2024.cpp) - двумерные массивы <br>
 [21.03.2024](https://github.com/RomanLyashenko/ClassWorkCPP/blob/main/21.03.2024/21.03.2024.cpp) - функции <br>
-[26.03.2024](https://github.com/RomanLyashenko/ClassWorkCPP/blob/main/26.03.2024/26.03.2024.cpp) - массивы в функциях + повторение двумерных массивов<br>
-[23.03.2024](https://github.com/RomanLyashenko/ClassWorkCPP/blob/main/28.03.2024/28.03.2024.cpp) - указатели, динамические массивы<br>
-[02.04.2024](https://github.com/RomanLyashenko/ClassWorkCPP/blob/main/02.04.2024/02.04.2024.cpp) - динамические массивы в функциях
+[26.03.2024](https://github.com/RomanLyashenko/ClassWorkCPP/blob/main/26.03.2024/26.03.2024.cpp) - массивы в функциях + повторение двумерных массивов <br>
+[23.03.2024](https://github.com/RomanLyashenko/ClassWorkCPP/blob/main/28.03.2024/28.03.2024.cpp) - указатели, динамические массивы <br>
+[02.04.2024](https://github.com/RomanLyashenko/ClassWorkCPP/blob/main/02.04.2024/02.04.2024.cpp) - динамические массивы в функциях <br>
+[04.04.2024](https://github.com/RomanLyashenko/ClassWorkCPP/blob/main/04.04.2024/04.04.2024.cpp) - двумерные динамические массивы
 
 
 
