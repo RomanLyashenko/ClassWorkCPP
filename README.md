@@ -18,7 +18,8 @@
 [04.04.2024](https://github.com/RomanLyashenko/ClassWorkCPP/blob/main/09.04.2024/09.04.2024.cpp) - повторение двумерных динамических массивов <br>
 [14.05.2024](https://github.com/RomanLyashenko/ClassWorkCPP/blob/main/14.05.2024/14.05.2024.cpp) - общее повторение материала <br>
 [16.05.2024](https://github.com/RomanLyashenko/ClassWorkCPP/tree/main/16.05.2024) - повторение двумерных массивов <br>
-[23.05.2024](https://github.com/RomanLyashenko/ClassWorkCPP/blob/main/23.05.2024/23.05.2024.cpp) - припроцессорная команда define и строки
+[23.05.2024](https://github.com/RomanLyashenko/ClassWorkCPP/blob/main/23.05.2024/23.05.2024.cpp) - припроцессорная команда define и строки <br>
+[28.05.2024](https://github.com/RomanLyashenko/ClassWorkCPP/blob/main/28.05.2024/28.05.2024.cpp) - работа с файлами
 
 
 
