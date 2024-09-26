@@ -20,7 +20,7 @@
 [16.05.2024](https://github.com/RomanLyashenko/ClassWorkCPP/tree/main/16.05.2024) - повторение двумерных массивов <br>
 [23.05.2024](https://github.com/RomanLyashenko/ClassWorkCPP/blob/main/23.05.2024/23.05.2024.cpp) - припроцессорная команда define и строки <br>
 [28.05.2024](https://github.com/RomanLyashenko/ClassWorkCPP/blob/main/28.05.2024/28.05.2024.cpp) - работа с файлами <br>
-[26.09.2024]() - структуры
+[26.09.2024](https://github.com/RomanLyashenko/ClassWorkCPP/blob/main/26.09.2024/ConsoleApplication1.cpp) - структуры
 
 
 
