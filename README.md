@@ -21,7 +21,7 @@
 [23.05.2024](https://github.com/RomanLyashenko/ClassWorkCPP/blob/main/23.05.2024/23.05.2024.cpp) - припроцессорная команда define и строки <br>
 [28.05.2024](https://github.com/RomanLyashenko/ClassWorkCPP/blob/main/28.05.2024/28.05.2024.cpp) - работа с файлами <br>
 [26.09.2024](https://github.com/RomanLyashenko/ClassWorkCPP/blob/main/26.09.2024/ConsoleApplication1.cpp) - структуры <br>
-[01.10.2024](https://github.com/RomanLyashenko/ClassWorkCPP/blob/main/01.10.2024/01.10.2024.cpp) - списки, банарные деревья
+[01.10.2024](https://github.com/RomanLyashenko/ClassWorkCPP/blob/main/01.10.2024/01.10.2024.cpp) - списки, бинарные деревья
 
 
 
