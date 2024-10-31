@@ -22,7 +22,8 @@
 [28.05.2024](https://github.com/RomanLyashenko/ClassWorkCPP/blob/main/28.05.2024/28.05.2024.cpp) - работа с файлами <br>
 [26.09.2024](https://github.com/RomanLyashenko/ClassWorkCPP/blob/main/26.09.2024/ConsoleApplication1.cpp) - структуры <br>
 [01.10.2024](https://github.com/RomanLyashenko/ClassWorkCPP/blob/main/01.10.2024/01.10.2024.cpp) - списки, бинарные деревья <br>
-[15.10.2024](https://github.com/RomanLyashenko/ClassWorkCPP/blob/main/15.10.2024/15.10.2024.cpp) - повторение файлов
+[15.10.2024](https://github.com/RomanLyashenko/ClassWorkCPP/blob/main/15.10.2024/15.10.2024.cpp) - повторение файлов  <br>
+[29.10.2024](https://github.com/RomanLyashenko/ClassWorkCPP/tree/main/29.10.2024) - Введение в ООП <br>
 
 
 
