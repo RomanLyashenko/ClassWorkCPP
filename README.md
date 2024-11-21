@@ -24,6 +24,7 @@
 [01.10.2024](https://github.com/RomanLyashenko/ClassWorkCPP/blob/main/01.10.2024/01.10.2024.cpp) - списки, бинарные деревья <br>
 [15.10.2024](https://github.com/RomanLyashenko/ClassWorkCPP/blob/main/15.10.2024/15.10.2024.cpp) - повторение файлов  <br>
 [29.10.2024](https://github.com/RomanLyashenko/ClassWorkCPP/tree/main/29.10.2024) - Введение в ООП <br>
+[21.11.2024]() - Наследование <br>
 
 
 
