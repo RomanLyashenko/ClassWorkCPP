@@ -25,7 +25,7 @@
 [15.10.2024](https://github.com/RomanLyashenko/ClassWorkCPP/blob/main/15.10.2024/15.10.2024.cpp) - повторение файлов  <br>
 [29.10.2024](https://github.com/RomanLyashenko/ClassWorkCPP/tree/main/29.10.2024) - Введение в ООП <br>
 [21.11.2024](https://github.com/RomanLyashenko/ClassWorkCPP/tree/main/21.11.2024) - Наследование <br>
-[26.11.2024]() - Виртуальные функции и полеморфизм <br>
+[26.11.2024](https://github.com/RomanLyashenko/ClassWorkCPP/tree/main/ConsoleApplication7) - Виртуальные функции и полеморфизм <br>
 
 
 
