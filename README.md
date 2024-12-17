@@ -26,6 +26,7 @@
 [29.10.2024](https://github.com/RomanLyashenko/ClassWorkCPP/tree/main/29.10.2024) - Введение в ООП <br>
 [21.11.2024](https://github.com/RomanLyashenko/ClassWorkCPP/tree/main/21.11.2024) - Наследование <br>
 [26.11.2024](https://github.com/RomanLyashenko/ClassWorkCPP/tree/main/ConsoleApplication7) - Виртуальные функции и полеморфизм <br>
+[17.12.2024]() - пространства имён и исключения <br>
 
 
 
